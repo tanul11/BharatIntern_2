@@ -18,7 +18,7 @@ from sklearn import metrics
 # In[2]:
 
 
-data = pd.read_csv("C:/Users/Tanul Tripathi/OneDrive/Desktop/datasets/Iris.csv")
+data = pd.read_csv("dataset")
 
 
 # In[3]:
