@@ -139,5 +139,5 @@ model.fit(X_train, Y_train)
 # In[ ]:
 
 
-print('Accuracy :',model.score(X_))
+print('Accuracy :',model.score(X_test, Y_test)*100)
 
